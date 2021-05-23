@@ -7,7 +7,7 @@ The School board is suspecting that math and reading grades for Thomas High Scho
 
 ## Results: 
 
-1.District summary:
+### 1.District summary:
 
 Results including Thomas High School 9th Grades in Maths and reading:
 ![](district_summary_incl.png) 
@@ -15,7 +15,6 @@ Results including Thomas High School 9th Grades in Maths and reading:
 Results excluding Thomas High School 9th Grades in Maths and reading: 
 ![](district_summary_excl.png) 
 
-## Summary:
 
 The Thomas High School 9th grade in reading and math have very little to no impact on the school district analysis. So we can see that school district analysis is overall not affected.  
 
