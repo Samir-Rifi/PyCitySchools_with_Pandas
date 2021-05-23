@@ -46,7 +46,7 @@ The ninth grades’ reading and math scores had a verry little impact on the ove
 * The average reading score went from 83.848% to 83.896% and the % passing in reading went from 97.308% to 97.018%
 * The overall passing score went from 90.948% to 90.630%.
 
-###4.Replacing the ninth grades scores effect:
+### 4.Replacing the ninth grades scores effect:
 
 4.1 Math and reading scores by grade:
 
@@ -69,6 +69,7 @@ Summary: No noticeable effect on the scores by school spending:
 Summary: No noticeable effect on the scores by school spending:
 *Including Thomas High school data:
 ![](by_size_incl.PNG) 
+
 *Excluding Thomas High school data:
 ![](by_size_excl.PNG) 
 
